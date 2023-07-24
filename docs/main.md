@@ -69,6 +69,8 @@ These modules add versatility and functionality to the Eggsbee Devices, empoweri
 
 [Eggsbee Online](eggsbee_online/eggsbee_online.md) is the cloud software that complements Eggsbee Devices, offering a user-friendly interface for bioprocess design, control, and data analysis.
 
+- [Automated control](eggsbee_online/automated_control.md) explains how to run experiments or setup production scenarios for automatic execution using the concepts of Projects and Jobs
+
 ### Key Features:
 
 - [Bioprocess Design](eggsbee_online/designing_bioprocesses.md): Users can design, create, edit, and share bioprocesses using a collaborative and intuitive platform, similar to GitHub for code.
