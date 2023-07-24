@@ -67,7 +67,7 @@ Eggsbee Online is the cloud software that complements Eggsbee Devices, offering 
 
 ### Key Features:
 
-- Bioprocess Design: Users can design, create, edit, and share bioprocesses using a collaborative and intuitive platform, similar to GitHub for code.
+- [Bioprocess Design](eggsbee_online/designing_bioprocesses.md): Users can design, create, edit, and share bioprocesses using a collaborative and intuitive platform, similar to GitHub for code.
 - Deployment and Orchestration: Bioprocess code can be deployed with a single click onto Eggsbee Devices, with automatic provisioning and orchestration.
 - Data Analytics: Real-time data streaming enables intelligent control, analytics, and potential AI integration for optimizing bioprocessing performance.
 
