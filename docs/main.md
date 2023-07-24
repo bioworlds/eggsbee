@@ -13,3 +13,5 @@ The primary purpose of Eggsbee Devices is to facilitate and simplify bioprocesse
 Eggsbee Devices are equipped with an array of advanced features to support a diverse range of bioprocesses. This includes control of temperature, mixing, luminosity, aerobic/anaerobic conditions, humidity control, and nutrient delivery systems. These features allow the devices to create highly specific environments that can cater to the growth of a wide array of biological entities, from bacteria to fungi to plant & animal cells.
 
 Moreover, Eggsbee Devices are designed with user-friendliness in mind. The management software, Eggsbee Online, has intuitive interfaces and straightforward operation procedures, making the Eggsbee devices accessible to users of varying experience levels. Plus, they are compact and portable, allowing for their use in a variety of settings.
+
+[Link to Base Module description] (base_module.md)
