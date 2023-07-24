@@ -38,10 +38,16 @@ Moreover, Eggsbee Devices are designed with user-friendliness in mind. The manag
 - Graduations and Marking Spot: Equipped with white enamel graduations and a marking spot for accurate measurements.
 
 ### List of Modules:
+
+A key feature in Eggsbee Devices is the availability of several plug and play modules. These modules can be connected to the existing system by powering them up via a USB cable to either the Base Module or to another module that is already powered up. The newly connected module is automatically detected and can be provisioned via Eggsbee Online. Multiple modules can be daisy-chained and connected in series. Similarly, modules can be easily disconnected by unplugging their USB cables.
+
+Current existing modules include:
 - [Base Module](modules/base_module.md)
-- [Pump Module](modules/pump_module.md)
-- [pH Module](modules/pH_module.md)
-- [Gas Regulator Module](modules/gas_regulator_module.md)
+- [Pump Module](modules/pump_module.md): Facilitates liquid transfer and enhances bioprocessing functionalities with accurate and controlled liquid handling.
+- [pH Module](modules/pH_module.md): Monitors and controls pH levels during bioprocessing experiments with high-precision sensors.
+- [Gas Regulator Module](modules/gas_regulator_module.md): Regulates and controls gas flow during bioprocessing experiments, ensuring precise and stable gas concentrations.
+
+These modules add versatility and functionality to the Eggsbee Devices, empowering researchers and scientists to customize and optimize their bioprocesses according to their specific needs.
 
 ### List of Hardware Accessories:
 #### Stirrers
