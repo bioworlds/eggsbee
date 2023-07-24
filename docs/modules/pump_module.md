@@ -1,4 +1,4 @@
-# Pump Module Documentation
+# Pump Module
 
 ## Introduction
 
