@@ -2,9 +2,10 @@
 
 ## 1.1 What are Eggsbee Bioreactors?
 
-[[assets/images/5Eggsbee_1.png | height=100]]
+![5Eggsbee_1](https://github.com/bioworlds/eggsbee/assets/140448792/1cb71e92-2422-4600-87dd-42eede6585b5)
 
-Eggsbee Bioreactors are an innovative series of devices designed for carrying out a wide range of bioprocesses. They are compact, user-friendly units that can perform a variety of biological experiments and procedures. The name "Eggsbee" symbolizes the potential for growth and development within each device, much like an egg nurturing life within it.
+Eggsbee Bioreactors are an innovative series of devices designed for carrying out a wide range of bioprocesses. They are compac
+t, user-friendly units that can perform a variety of biological experiments and procedures. The name "Eggsbee" symbolizes the potential for growth and development within each device, much like an egg nurturing life within it.
 
 ## 1.2 Purpose of Eggsbee Devices
 
