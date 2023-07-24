@@ -9,7 +9,6 @@ t, user-friendly units that can perform a variety of biological experiments and 
 
 The key component of the Eggsbee Ecosystem is the Eggsbee Base Module, which comprises the Base Module and the Vessel. The Base Module acts as a protective shell and houses a range of actuators and sensors to control and measure bioprocesses inside the Vessel.
 
-
 ## Purpose of Eggsbee Devices
 
 The primary purpose of Eggsbee Devices is to facilitate and simplify bioprocesses, making these complex procedures more accessible to a broader audience. This includes scientists in research institutions, biotechnologists building pilot plants, students in educational environments, and enthusiasts in a hobbyist context. By providing a portable and compact, yet versatile platform, Eggsbee Devices aim to democratize access to biotechnology for users of varying experience levels, from experts to novices.
@@ -35,6 +34,15 @@ Moreover, Eggsbee Devices are designed with user-friendliness in mind. The manag
 - Made of Glass: Round, wide-mouthed vessels with GLS80 thread for easy handling and autoclaving.
 - Sealing Options: Can be sealed with polypropylene caps, suitable for autoclaving or sterilization.
 - Graduations and Marking Spot: Equipped with white enamel graduations and a marking spot for accurate measurements.
+
+### List of Modules:
+- [Base Module](modules/base_module.md)
+- [Pump Module](modules/pump_module.md)
+- [pH Module](modules/pH_module.md)
+- [Gas Regulator Module](modules/gas_regulator_module.md)
+
+### List of Hardware Accessories:
+- [Octostir](accessories/octostir.md)
 
 ## Eggsbee Online
 
