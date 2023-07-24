@@ -14,6 +14,26 @@ The Pump Module is an essential accessory in the Eggsbee Ecosystem, designed to 
 
 - **Easy Integration**: The Pump Module seamlessly integrates with Eggsbee Devices and Eggsbee Online, enhancing the overall bioprocessing experience.
 
+## Description
+
+The Pump Module allows for the transfer of fluids between the Vessel and the outside. It can be used to top up growth media in the Vessel, remove spent media, recycle contents between/among multiple Eggsbee Devices, and other applications. The key features are:
+
+- Each Pump Module is equipped with 2 curvilinear peristaltic pumps.
+- The tube conduit in which the liquid is intended to flow has to be securely snapped onto the curvilinear surface of the pump. The length of the tube conduit hanging inside the Vessel has to be properly arranged. When pumping liquid from the Vessel, the end of the tube has to be fully submerged in the liquid. When pumping liquid into the Vessel, the end of the tube can be dangling over the surface of the liquid. The type of tubing used, especially the cross-sectional surface area, has to be noted, as this value is used to calculate the volume of liquid transferred.
+- Each pump is characterized by four parameters which can be entered and edited in the Eggsbee Online device drawer:
+  1. On/Off switch.
+  2. Direction: Each pump can push fluids in a specified direction, namely, to the right or to the left. The direction can be defined in Eggsbee Online. When the pump is in operation, the direction of flow is indicated by the light indicators situated next to the pump.
+  3. Speed: The speed of the pump is specified as a percentage of the total pump motor power. This is a number ranging from 1 to 99. 1 signifies the slowest while 99 signifies the highest. Typical speed is about 20.
+  4. Number of Rotations: The number of rotations parameter determines the volume of liquid to be pumped. For a typical silicone tubing with an outer diameter of 6mm and an inner diameter of 4mm, 20,000 rotations will displace about 95 grams or 95mL of distilled water. For accurate volume transfer, ensure that the tubing is completely filled with liquid and that there is no bubble.
+
+The volume of liquid pumped depends on the inner diameter of the tubing, the number of motor rotations, and the model of the motor in the Pump Module. The number of rotations to displace a specific volume of liquid can be calculated in the following manner:
+
+Let V (in millilitres) be the volume of liquid to be displaced and N be the number of motor rotations. Activate the pump for 10,000 turns to displace distilled water from the Vessel to a container. Weigh the transferred water W (in milligrams).
+
+N = (10,000 * V) / W
+
+The Pump Module is powered up by a USB cable which is either connected to the Base Module (if it is the first module in the series of connected modules) or to another powered module.
+
 ## Setup and Installation
 
 1. Connect the Pump Module to the Eggsbee Device using the provided connectors.
