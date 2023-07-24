@@ -50,6 +50,9 @@ Moreover, Eggsbee Devices are designed with user-friendliness in mind. The manag
 #### Spargers
 - [Micro sparger](micro_sparger.md)
 
+#### Vessels
+- [1L Glass Vessel](1L_glass_vessel.md)
+
 ## Eggsbee Online
 
 Eggsbee Online is the cloud software that complements Eggsbee Devices, offering a user-friendly interface for bioprocess design, control, and data analysis.
