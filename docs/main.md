@@ -7,7 +7,7 @@ The Eggsbee Ecosystem is a cutting-edge bioprocessing solution that revolutioniz
 Eggsbee Bioreactors are an innovative series of devices designed for carrying out a wide range of bioprocesses. They are compac
 t, user-friendly units that can perform a variety of biological experiments and procedures.
 
-The key component of the Eggsbee Ecosystem is the Eggsbee Base Module, which comprises the Base Module and the Vessel. The Base Module acts as a protective shell and houses a range of actuators and sensors to control and measure bioprocesses inside the Vessel.
+The key component of the Eggsbee Ecosystem is the [Eggsbee Base Module](modules/base_module.md), which comprises the Base Module and the [Vessel](accessories/1L_glass_vessel.md). The [Eggsbee Base Module](modules/base_module.md) acts as a protective shell and houses a range of actuators and sensors to control and measure bioprocesses inside the Vessel.
 
 ## Purpose of Eggsbee Devices
 
