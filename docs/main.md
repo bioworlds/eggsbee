@@ -42,7 +42,13 @@ Moreover, Eggsbee Devices are designed with user-friendliness in mind. The manag
 - [Gas Regulator Module](modules/gas_regulator_module.md)
 
 ### List of Hardware Accessories:
+#### Stirrers
 - [Octostir](accessories/octostir.md)
+- [Cellprop Stir Pro](accessories/cellprop_stir_pro.md)
+- [Cellprop Stir Pro Dual](accessories/cellprop_stir_pro_dual.md)
+
+#### Spargers
+- [Micro sparger](micro_sparger.md)
 
 ## Eggsbee Online
 
