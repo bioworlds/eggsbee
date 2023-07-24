@@ -31,3 +31,76 @@ The Vessel is provided when the advanced or standard package is purchased. The V
 - The Vessel comes with permanent white enamel graduations and a marking spot.
 
 **Important Notes:** If desired, the Vessel can be used as a single-use vessel.
+
+## Connecting Your Eggsbee Base Module to Wi-Fi in Strict Security Environments
+
+In numerous settings, particularly corporate and academic environments, strict security regulations govern the connection of network-enabled devices like the Eggsbee Base Module. Consequently, establishing an online connection for your Eggsbee may require some additional steps. This guide offers several viable strategies to assist you.
+
+**Note:** The Eggsbee Base Module operates exclusively on a 2.4GHz Wi-Fi network and does not support 5GHz Wi-Fi.
+
+### Option 1: Use WPA-2 Enterprise
+
+If your network supports WPA-2 Enterprise, we recommend this method owing to its advanced security features. To connect:
+
+1. Open the Eggsbee lid to locate the device ID number.
+2. Connect your PC or mobile device to the Wi-Fi network that shares the same name (SSID) as the device ID number.
+3. Open a web browser, enter `192.168.4.1` in the address bar. It will open the Eggsbee’s Wi-Fi setup page.
+4. Select the “WPA2 Enterprise” tab, enter the SSID, EAP ID (same as SSID), EAP Username, and EAP Password for your WPA-2 Enterprise network.
+5. Wait a few moments. A message will be displayed if the device is successfully updated. Restart your Eggsbee by unplugging and replugging it.
+6. If the internet connection indicator light (second light from top) turns green, you're successfully connected.
+
+### Option 2: Use a Mobile Router
+
+A mobile router is another feasible option. It works similarly to a Wi-Fi bridge but functions as an independent device, creating its own network. Here's how to use it:
+
+1. Follow the manufacturer's instructions to set up your mobile router.
+2. Open the Eggsbee lid to locate the device ID number.
+3. Connect your PC or mobile device to the Wi-Fi network that shares the same name (SSID) as the device ID number.
+4. Open a web browser, enter `192.168.4.1` in the address bar. It will open the Eggsbee’s Wi-Fi setup page.
+5. Select the “General Setup” tab, enter the SSID, and Password for the mobile router.
+6. Follow steps 5 and 6 outlined in the WPA-2 Enterprise section to complete the setup.
+
+### Option 3: Use a Wi-Fi Hotspot
+
+Transforming your smartphone into a Wi-Fi hotspot provides another potential solution. This turns your phone into a Wi-Fi source for the Eggsbee. Here's how:
+
+1. Enable the hotspot feature on your smartphone.
+2. Connect the Eggsbee to your smartphone's Wi-Fi hotspot by following the steps outlined in the Mobile router section.
+
+**Note:** The smartphone has to be within the Eggsbee connection range at all times; otherwise, data transmission by Eggsbee will be affected.
+
+### Option 4: Use Connectify
+
+Connectify is software that turns your Windows laptop into a Wi-Fi hotspot. In a high-security environment where the above options aren't practical, this could serve as an effective workaround. Here's how to use Connectify:
+
+1. Download and install Connectify on your Windows laptop.
+2. Create a Connectify hotspot with a distinct name and password.
+3. Connect the Eggsbee to the Connectify hotspot by following the steps outlined in the Mobile router section.
+
+**Note:**
+- The laptop has to be within the Eggsbee connection range at all times; otherwise, data transmission by Eggsbee will be affected.
+- The laptop Wi-Fi has to be set to 2.4GHz. In Windows, this can be done by Device Manager > Network Adapters > [Wi-Fi device].
+- The laptop has to be powered on at all times, and power settings set on “Never” shutdown.
+
+### Option 5: Use Internet Sharing on a Mac
+
+Mac users can share their computer's internet connection with the Eggsbee. This workaround can be very effective in strict security environments:
+
+1. Navigate to 'System Preferences' on your Mac.
+2. Select 'Sharing'.
+3. Choose 'Internet Sharing'.
+4. From the 'Share your connection from' dropdown menu, select the internet connection you want to share.
+5. In the 'To computers using' list, check the box next to 'Wi-Fi'.
+6. Click 'Wi-Fi Options' and set a network name and password.
+7. Tick the 'Internet Sharing' box on the left-hand side list.
+8. Connect the Eggsbee to the Wi-Fi network created by your Mac by following the steps outlined in the Mobile router section.
+
+### Option 6: Use a 4G Router with SIM Card
+
+A 4G router can connect to a mobile phone network with a SIM card with a data plan subscription:
+
+1. Subscribe to a SIM card with a data plan.
+2. Follow the manufacturer's instructions to set up your 4G router.
+3. Connect the Eggsbee to the 4G router by following the steps outlined in the Mobile router section.
+
+Please note that these strategies aim to help you get your Eggsbee online. It is essential to adhere to your organization's IT policies and guidelines when connecting devices to the network. If you require further assistance, please contact us at support@dynacyte.com.
