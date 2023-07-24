@@ -1,5 +1,9 @@
 # Eggsbee Documentation
 
+## Safety
+
+[FOR YOUR OWN SAFETY AND THE SAFETY OF OTHERS, READ THIS BEFORE OPERATING ANY BIOTECH EQUIPMENT OR DOING ANY BIOPROCESSING](safety.md)
+
 ## Eggsbee Ecosystem Overview
 
 The Eggsbee Ecosystem is a cutting-edge bioprocessing solution that revolutionizes the way bioprocesses are conducted. It consists of modular and intelligent bioreactors known as Eggsbee Devices, powered by the advanced operating system EggOS, and integrated with powerful cloud software called Eggsbee Online.
