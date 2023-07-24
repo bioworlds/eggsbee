@@ -1,4 +1,4 @@
-# Gas Regulator Module Documentation
+# Gas Regulator Module
 
 ## Introduction
 
