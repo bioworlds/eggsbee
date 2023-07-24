@@ -1,4 +1,4 @@
-# pH Module Documentation
+# pH Module
 
 ## Table of Contents
 1. [Introduction](#introduction)
