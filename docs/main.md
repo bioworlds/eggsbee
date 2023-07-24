@@ -14,4 +14,4 @@ Eggsbee Devices are equipped with an array of advanced features to support a div
 
 Moreover, Eggsbee Devices are designed with user-friendliness in mind. The management software, Eggsbee Online, has intuitive interfaces and straightforward operation procedures, making the Eggsbee devices accessible to users of varying experience levels. Plus, they are compact and portable, allowing for their use in a variety of settings.
 
-[Link to Base Module description] (base_module.md)
+[Link to Base Module description](base_module.md)
