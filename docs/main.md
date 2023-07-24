@@ -2,7 +2,7 @@
 
 ## Safety
 
-[FOR YOUR OWN SAFETY AND THE SAFETY OF OTHERS, READ THIS BEFORE OPERATING ANY BIOTECH EQUIPMENT OR DOING ANY BIOPROCESSING](safety.md)
+[FOR YOUR OWN SAFETY AND THE SAFETY OF OTHERS, READ THIS BEFORE OPERATING ANY BIOTECH EQUIPMENT OR DOING ANY BIOPROCESSING.](safety.md)
 
 ## Eggsbee Ecosystem Overview
 
@@ -67,7 +67,7 @@ These modules add versatility and functionality to the Eggsbee Devices, empoweri
 
 ## Eggsbee Online
 
-Eggsbee Online is the cloud software that complements Eggsbee Devices, offering a user-friendly interface for bioprocess design, control, and data analysis.
+[Eggsbee Online](eggsbee_online/eggsbee_online.md) is the cloud software that complements Eggsbee Devices, offering a user-friendly interface for bioprocess design, control, and data analysis.
 
 ### Key Features:
 
