@@ -88,6 +88,3 @@ The Eggsbee Ecosystem also offers a range of accessory modules, such as the Pump
 *For detailed documentation and getting started guides, please refer to the Eggsbee Docs repository.*
 
 #Dynacyte #Eggsbee #Bioprocessing #Bioreactors #CloudSoftware #Ecosystem #Innovation #EggOS #AccessoryModules #BioprocessingAccessories #EggsbeeLore
-
-
-[Link to Base Module description](base_module.md)
