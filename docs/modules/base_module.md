@@ -1,6 +1,8 @@
 ## Base Module
 
-The key component of the Eggsbee Device is the Base Module, which comprises of a protective shell in which the Vessel is placed. The Base Module is fitted with a number of actuators and sensors for controlling and measuring bioprocesses occurring inside the Vessel. These include:
+The key component of the Eggsbee Device is the Base Module, which comprises of a protective shell in which the Vessel is placed
+![5Eggsbee_1](https://github.com/bioworlds/eggsbee/assets/140448792/4fbaecf6-1d22-4a67-bdd6-e8a08100dae0)
+. The Base Module is fitted with a number of actuators and sensors for controlling and measuring bioprocesses occurring inside the Vessel. These include:
 
 - A mechanism for operating a rotating magnetic stirrer at variable speeds. The stirring can also be pulsed by using the "Pulse" feature in Eggsbee Online. Currently, there are two versions of the Base Modules, each with different rotating speeds:
   - In the Cell Culture version, the rotating speed is between 10 to 300 rpm
